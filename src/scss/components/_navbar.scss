@@ -1,0 +1,43 @@
+.navbar {
+  @include background($primary);
+  color: $white;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+
+  .options {
+    display: flex;
+    flex-direction: column;
+  }
+  p {
+    text-transform: uppercase;
+    padding: 1rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+  }
+  .button-menu {
+    padding: 1rem 1rem 1rem 1rem;
+  }
+  .hide-options{
+    display: none;
+  }
+}
+
+@include desktop() {
+  .navbar {
+    flex-direction: row;
+    justify-content: space-between;
+
+    .options {
+      display: flex;
+      flex-direction: row;
+    }
+    .button-menu {
+      display: none;
+    }
+  }
+}
+
+

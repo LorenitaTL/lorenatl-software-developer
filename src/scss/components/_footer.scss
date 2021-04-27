@@ -1,0 +1,16 @@
+.footer {
+  @include background($light-grey);
+  color: $primary;
+  text-align: center;
+
+  padding: 1rem;
+  .content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    .item {
+      margin: 1rem;
+    }
+  }
+}

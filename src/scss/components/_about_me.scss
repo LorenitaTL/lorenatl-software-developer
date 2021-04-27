@@ -1,0 +1,42 @@
+.about-me {
+  padding-top: 5rem;
+  color: $dark-grey;
+  text-align: center;
+
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 2rem;
+    .card {
+      margin: 0.5rem;
+      height: 20rem;
+      width: 20rem;
+      img {
+        height: 60%;
+        margin: 1rem 0rem 1rem 0rem;
+      }
+
+      .card-front {
+        color: $primary;
+
+        h2{
+          font-size: 1.5rem;
+          text-shadow: 2px 2px 5px darken($light-grey,15);
+        }
+        img{width: 90%;}
+      }
+
+      .card-back{
+        line-height: 1.8rem;
+        padding: 1rem;
+      }
+      @include desktop() {
+        img {
+          height: 70%;
+        }
+      }
+    }
+  }
+}

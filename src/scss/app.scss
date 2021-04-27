@@ -1,0 +1,74 @@
+@import "variables";
+@import "mixins";
+@import "./components/navbar";
+@import "./components/home";
+@import "./components/about_me";
+@import "./components/my_projects";
+@import "./components/experience";
+@import "./components/technologies";
+@import "./components/footer";
+
+html {
+  @include box-sizing(border-box);
+  font-family: $font-family;
+}
+*,
+*:after,
+*:before {
+  @include box-sizing(inherit);
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: $background-grey;
+}
+.main {
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+  @include desktop() {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+}
+
+.subtitle {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.flip-card {
+  background-color: transparent;
+
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  &:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  .flip-card-front,
+  .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  .flip-card-back {
+    transform: rotateY(180deg);
+    
+  }
+}
+
+.shadow-card {
+  @include shadow(lighten($background-grey, 70), rgba(0, 0, 0, 0.15));
+}
+.text-grey{
+  color: lighten($dark-grey, 10);
+  text-shadow: 2px 2px 5px darken($light-grey,15);
+}

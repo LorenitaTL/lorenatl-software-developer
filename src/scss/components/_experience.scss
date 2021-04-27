@@ -1,0 +1,22 @@
+.experience {
+  padding-top: 3rem;
+  text-align: center;
+  .content {
+    display: flex;
+    line-height: 2rem;
+    h3 {
+      color: $primary;
+    }
+
+    #work {
+      width: 50%;
+      text-align: left;
+      margin: 2rem 1rem;
+    }
+    #courses {
+      width: 50%;
+      text-align: left;
+      margin: 2rem 1rem;
+    }
+  }
+}

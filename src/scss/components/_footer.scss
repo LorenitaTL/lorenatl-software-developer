@@ -1,6 +1,6 @@
 .footer {
-  @include background($light-grey);
-  color: $primary;
+  @include background($primary);
+  color: $light-grey;
   text-align: center;
 
   padding: 1rem;

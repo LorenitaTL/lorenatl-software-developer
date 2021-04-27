@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lorenatl-software-developer/static/css/main.ea6f378a.chunk.css",
-    "main.js": "/lorenatl-software-developer/static/js/main.209eb73c.chunk.js",
-    "main.js.map": "/lorenatl-software-developer/static/js/main.209eb73c.chunk.js.map",
+    "main.js": "/lorenatl-software-developer/static/js/main.6acd7a8f.chunk.js",
+    "main.js.map": "/lorenatl-software-developer/static/js/main.6acd7a8f.chunk.js.map",
     "runtime-main.js": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js",
     "runtime-main.js.map": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js.map",
     "static/js/2.cdb957a9.chunk.js": "/lorenatl-software-developer/static/js/2.cdb957a9.chunk.js",
@@ -15,6 +15,10 @@
     "static/media/img-2.b18c4948.svg": "/lorenatl-software-developer/static/media/img-2.b18c4948.svg",
     "static/media/img-3.0ae53cc5.svg": "/lorenatl-software-developer/static/media/img-3.0ae53cc5.svg",
     "static/media/img-4.80463c64.svg": "/lorenatl-software-developer/static/media/img-4.80463c64.svg",
+    "static/media/project-1.663f210d.jpg": "/lorenatl-software-developer/static/media/project-1.663f210d.jpg",
+    "static/media/project-2.0611473d.png": "/lorenatl-software-developer/static/media/project-2.0611473d.png",
+    "static/media/project-3.291213d9.jpg": "/lorenatl-software-developer/static/media/project-3.291213d9.jpg",
+    "static/media/project-4.b3ba9845.jpg": "/lorenatl-software-developer/static/media/project-4.b3ba9845.jpg",
     "static/media/skills.e96418a2.svg": "/lorenatl-software-developer/static/media/skills.e96418a2.svg",
     "static/media/work.4be318e8.svg": "/lorenatl-software-developer/static/media/work.4be318e8.svg"
   },
@@ -22,6 +26,6 @@
     "static/js/runtime-main.dbbe8932.js",
     "static/js/2.cdb957a9.chunk.js",
     "static/css/main.ea6f378a.chunk.css",
-    "static/js/main.209eb73c.chunk.js"
+    "static/js/main.6acd7a8f.chunk.js"
   ]
 }

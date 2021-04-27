@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lorenatl-software-developer/static/css/main.ea6f378a.chunk.css",
-    "main.js": "/lorenatl-software-developer/static/js/main.68c2702c.chunk.js",
-    "main.js.map": "/lorenatl-software-developer/static/js/main.68c2702c.chunk.js.map",
+    "main.js": "/lorenatl-software-developer/static/js/main.9c789e6c.chunk.js",
+    "main.js.map": "/lorenatl-software-developer/static/js/main.9c789e6c.chunk.js.map",
     "runtime-main.js": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js",
     "runtime-main.js.map": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js.map",
     "static/js/2.b9644506.chunk.js": "/lorenatl-software-developer/static/js/2.b9644506.chunk.js",
@@ -11,14 +11,23 @@
     "static/css/main.ea6f378a.chunk.css.map": "/lorenatl-software-developer/static/css/main.ea6f378a.chunk.css.map",
     "static/js/2.b9644506.chunk.js.LICENSE.txt": "/lorenatl-software-developer/static/js/2.b9644506.chunk.js.LICENSE.txt",
     "static/media/Recurso 1.a5e4be1d.svg": "/lorenatl-software-developer/static/media/Recurso 1.a5e4be1d.svg",
+    "static/media/css.57feb85c.png": "/lorenatl-software-developer/static/media/css.57feb85c.png",
     "static/media/education.b883b2be.svg": "/lorenatl-software-developer/static/media/education.b883b2be.svg",
+    "static/media/html.397540de.png": "/lorenatl-software-developer/static/media/html.397540de.png",
     "static/media/img-2.b18c4948.svg": "/lorenatl-software-developer/static/media/img-2.b18c4948.svg",
     "static/media/img-3.0ae53cc5.svg": "/lorenatl-software-developer/static/media/img-3.0ae53cc5.svg",
     "static/media/img-4.80463c64.svg": "/lorenatl-software-developer/static/media/img-4.80463c64.svg",
+    "static/media/js.7962c0f6.png": "/lorenatl-software-developer/static/media/js.7962c0f6.png",
+    "static/media/mongodb.788ba14a.png": "/lorenatl-software-developer/static/media/mongodb.788ba14a.png",
+    "static/media/mysql.6e42b2a0.png": "/lorenatl-software-developer/static/media/mysql.6e42b2a0.png",
+    "static/media/nodejs.30ca82b0.png": "/lorenatl-software-developer/static/media/nodejs.30ca82b0.png",
+    "static/media/php.aea46e63.png": "/lorenatl-software-developer/static/media/php.aea46e63.png",
     "static/media/project-1.663f210d.jpg": "/lorenatl-software-developer/static/media/project-1.663f210d.jpg",
     "static/media/project-2.0611473d.png": "/lorenatl-software-developer/static/media/project-2.0611473d.png",
     "static/media/project-3.291213d9.jpg": "/lorenatl-software-developer/static/media/project-3.291213d9.jpg",
     "static/media/project-4.b3ba9845.jpg": "/lorenatl-software-developer/static/media/project-4.b3ba9845.jpg",
+    "static/media/react.80045de7.png": "/lorenatl-software-developer/static/media/react.80045de7.png",
+    "static/media/sass.cebbde63.png": "/lorenatl-software-developer/static/media/sass.cebbde63.png",
     "static/media/skills.e96418a2.svg": "/lorenatl-software-developer/static/media/skills.e96418a2.svg",
     "static/media/work.4be318e8.svg": "/lorenatl-software-developer/static/media/work.4be318e8.svg"
   },
@@ -26,6 +35,6 @@
     "static/js/runtime-main.dbbe8932.js",
     "static/js/2.b9644506.chunk.js",
     "static/css/main.ea6f378a.chunk.css",
-    "static/js/main.68c2702c.chunk.js"
+    "static/js/main.9c789e6c.chunk.js"
   ]
 }

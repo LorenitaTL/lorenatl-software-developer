@@ -1,0 +1,2 @@
+(this["webpackJsonplorenatl-software-developer"]=this["webpackJsonplorenatl-software-developer"]||[]).push([[0],{9:function(e,r,t){"use strict";t.r(r);t(1);var n=t(3),o=t.n(n),s=t(0);var a=function(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Lorena Trujillo Landeros"}),Object(s.jsx)("h2",{children:"Software Developer"})]})};o.a.render(Object(s.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.2c5f1c53.chunk.js.map

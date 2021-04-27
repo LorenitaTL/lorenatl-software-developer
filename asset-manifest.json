@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/lorenatl-software-developer/static/css/main.ea6f378a.chunk.css",
-    "main.js": "/lorenatl-software-developer/static/js/main.98841117.chunk.js",
-    "main.js.map": "/lorenatl-software-developer/static/js/main.98841117.chunk.js.map",
+    "main.js": "/lorenatl-software-developer/static/js/main.f7e611c6.chunk.js",
+    "main.js.map": "/lorenatl-software-developer/static/js/main.f7e611c6.chunk.js.map",
     "runtime-main.js": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js",
     "runtime-main.js.map": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js.map",
-    "static/js/2.df03d4a5.chunk.js": "/lorenatl-software-developer/static/js/2.df03d4a5.chunk.js",
-    "static/js/2.df03d4a5.chunk.js.map": "/lorenatl-software-developer/static/js/2.df03d4a5.chunk.js.map",
+    "static/js/2.cdb957a9.chunk.js": "/lorenatl-software-developer/static/js/2.cdb957a9.chunk.js",
+    "static/js/2.cdb957a9.chunk.js.map": "/lorenatl-software-developer/static/js/2.cdb957a9.chunk.js.map",
     "index.html": "/lorenatl-software-developer/index.html",
     "static/css/main.ea6f378a.chunk.css.map": "/lorenatl-software-developer/static/css/main.ea6f378a.chunk.css.map",
-    "static/js/2.df03d4a5.chunk.js.LICENSE.txt": "/lorenatl-software-developer/static/js/2.df03d4a5.chunk.js.LICENSE.txt"
+    "static/js/2.cdb957a9.chunk.js.LICENSE.txt": "/lorenatl-software-developer/static/js/2.cdb957a9.chunk.js.LICENSE.txt",
+    "static/media/Recurso 1.a5e4be1d.svg": "/lorenatl-software-developer/static/media/Recurso 1.a5e4be1d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dbbe8932.js",
-    "static/js/2.df03d4a5.chunk.js",
+    "static/js/2.cdb957a9.chunk.js",
     "static/css/main.ea6f378a.chunk.css",
-    "static/js/main.98841117.chunk.js"
+    "static/js/main.f7e611c6.chunk.js"
   ]
 }

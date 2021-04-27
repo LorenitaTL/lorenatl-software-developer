@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/lorenatl-software-developer/static/js/main.2c5f1c53.chunk.js",
-    "main.js.map": "/lorenatl-software-developer/static/js/main.2c5f1c53.chunk.js.map",
+    "main.css": "/lorenatl-software-developer/static/css/main.ea6f378a.chunk.css",
+    "main.js": "/lorenatl-software-developer/static/js/main.98841117.chunk.js",
+    "main.js.map": "/lorenatl-software-developer/static/js/main.98841117.chunk.js.map",
     "runtime-main.js": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js",
     "runtime-main.js.map": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js.map",
-    "static/js/2.89b19fc2.chunk.js": "/lorenatl-software-developer/static/js/2.89b19fc2.chunk.js",
-    "static/js/2.89b19fc2.chunk.js.map": "/lorenatl-software-developer/static/js/2.89b19fc2.chunk.js.map",
+    "static/js/2.df03d4a5.chunk.js": "/lorenatl-software-developer/static/js/2.df03d4a5.chunk.js",
+    "static/js/2.df03d4a5.chunk.js.map": "/lorenatl-software-developer/static/js/2.df03d4a5.chunk.js.map",
     "index.html": "/lorenatl-software-developer/index.html",
-    "static/js/2.89b19fc2.chunk.js.LICENSE.txt": "/lorenatl-software-developer/static/js/2.89b19fc2.chunk.js.LICENSE.txt"
+    "static/css/main.ea6f378a.chunk.css.map": "/lorenatl-software-developer/static/css/main.ea6f378a.chunk.css.map",
+    "static/js/2.df03d4a5.chunk.js.LICENSE.txt": "/lorenatl-software-developer/static/js/2.df03d4a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dbbe8932.js",
-    "static/js/2.89b19fc2.chunk.js",
-    "static/js/main.2c5f1c53.chunk.js"
+    "static/js/2.df03d4a5.chunk.js",
+    "static/css/main.ea6f378a.chunk.css",
+    "static/js/main.98841117.chunk.js"
   ]
 }

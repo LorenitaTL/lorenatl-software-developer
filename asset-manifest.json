@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lorenatl-software-developer/static/css/main.41b6de6d.chunk.css",
-    "main.js": "/lorenatl-software-developer/static/js/main.e515dcbf.chunk.js",
-    "main.js.map": "/lorenatl-software-developer/static/js/main.e515dcbf.chunk.js.map",
+    "main.js": "/lorenatl-software-developer/static/js/main.33743620.chunk.js",
+    "main.js.map": "/lorenatl-software-developer/static/js/main.33743620.chunk.js.map",
     "runtime-main.js": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js",
     "runtime-main.js.map": "/lorenatl-software-developer/static/js/runtime-main.dbbe8932.js.map",
     "static/js/2.403bf26b.chunk.js": "/lorenatl-software-developer/static/js/2.403bf26b.chunk.js",
@@ -53,6 +53,6 @@
     "static/js/runtime-main.dbbe8932.js",
     "static/js/2.403bf26b.chunk.js",
     "static/css/main.41b6de6d.chunk.css",
-    "static/js/main.e515dcbf.chunk.js"
+    "static/js/main.33743620.chunk.js"
   ]
 }

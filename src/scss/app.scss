@@ -8,6 +8,8 @@
 @import "./components/technologies";
 @import "./components/footer";
 
+@import "./components/gallery";
+
 html {
   @include box-sizing(border-box);
   font-family: $font-family;
@@ -72,3 +74,5 @@ body {
   color: lighten($dark-grey, 10);
   text-shadow: 2px 2px 5px darken($light-grey,15);
 }
+
+@include modal();

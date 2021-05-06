@@ -23,7 +23,7 @@ export const AboutMe = () => {
           img={img3}
           icon={icon2}
           title={"Mi trabajo"}
-          description="Desarrollo web y móvil, utilizando tecnologías como Raect JS, Flutter, Node JS, PHP, entre otros. Buscando siempre aprender nuevas tecnologías y mejorar mis habilidades"
+          description="Desarrollo web y móvil, utilizando tecnologías como Raect JS, Flutter, Node JS, PHP, entre otros. Me gusta seguir cursos de programación para mejorar mis habilidades"
         />
         <CardAbMe
           img={img4}

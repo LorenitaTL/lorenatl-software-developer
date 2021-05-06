@@ -21,6 +21,31 @@
 @mixin shadow-1($color1, $color2) {
   box-shadow: -3px -3px 5px $color1, 3px 3px 5px $color2;
 }
+
+
+@mixin modal() {
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 10;
+
+    .modal-content {
+      border-radius: 10px;
+      position: fixed;
+      width: 100%;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+}
 /*Media Query*/
 @mixin smartphone() {
   @media only screen and (min-width:#{$smartphone}) {

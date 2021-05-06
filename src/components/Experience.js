@@ -10,11 +10,13 @@ export const Experience = () => {
             <h2>Trabajo</h2>
             <br />
             <div>
-              <h3>ENERO 2020 - ACTUAL </h3>
+              <h3>ENERO 2020 - ABRIL 2021 </h3>
               <big>
                 <p>
-                  Bimbombá! Rentafiestas Desarrolladora Web y diseñadora de
-                  aplicaciones móviles.
+                  <li>
+                    Bimbombá! Rentafiestas Desarrolladora Web y diseñadora de
+                    aplicaciones móviles.
+                  </li>
                 </p>
               </big>
             </div>
@@ -22,9 +24,11 @@ export const Experience = () => {
               <h3>AGOSTO 2019 - JUNIO 2020 </h3>
               <big>
                 <p>
-                  Laboratorio de Software Libre - Consejo Zacatecano de Ciencia
-                  Tecnología e Innovación Desarrolladora de aplicación móvil
-                  multiplataforma.
+                  <li>
+                    Laboratorio de Software Libre - Consejo Zacatecano de
+                    Ciencia Tecnología e Innovación Desarrolladora de aplicación
+                    móvil multiplataforma.
+                  </li>
                 </p>
               </big>
             </div>
@@ -32,9 +36,12 @@ export const Experience = () => {
               <h3>NOVIEMBRE 2019 - NOVIEMBRE 2020 </h3>
               <big>
                 <p>
-                  Centro de Desarrollo de Software del Instituto Tecnológico
-                  Superior de Jerez Gestora de Proyecto y Desarrolladora web,
-                  participando en la Certificación bajo la Norma ISO/IEC 29110.
+                  <li>
+                    Centro de Desarrollo de Software del Instituto Tecnológico
+                    Superior de Jerez Gestora de Proyecto y Desarrolladora web,
+                    participando en la Certificación bajo la Norma ISO/IEC
+                    29110.
+                  </li>
                 </p>
               </big>
             </div>
@@ -49,6 +56,17 @@ export const Experience = () => {
                   <li>
                     Curso Flutter Intermedio: Diseños profesionales y
                     animaciones
+                  </li>
+                </p>
+              </big>
+            </div>
+            <div>
+              <h3>JULIO 2020 </h3>
+              <big>
+                <p>
+                  <li>
+                    Curso Bécalos English Challenge - Obteniendo 750 puntos (B1
+                    intermedio) en el Voxy Proficiency Assessment
                   </li>
                 </p>
               </big>

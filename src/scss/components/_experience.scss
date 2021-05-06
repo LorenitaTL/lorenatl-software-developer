@@ -2,24 +2,36 @@
   padding-top: 3rem;
   text-align: center;
   .content {
-    display: flex;
     line-height: 2rem;
     h3 {
       color: $primary;
     }
-    h2{
-      color:$dark-grey;
+    h2 {
+      color: $dark-grey;
     }
 
     #work {
-      width: 50%;
+      width: 100%;
       text-align: left;
       margin: 2rem 1rem;
     }
     #courses {
-      width: 50%;
+      width: 100%;
       text-align: left;
       margin: 2rem 1rem;
+    }
+
+    @include desktop() {
+      display: flex;
+
+      #work {
+        width: 50%;
+        text-align: left;
+        margin: 2rem 1rem;
+      }
+      #courses {
+        width: 50%;
+      }
     }
   }
 }

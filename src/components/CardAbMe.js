@@ -1,7 +1,6 @@
 import React from "react";
 
 export const CardAbMe = (props) => {
-  console.log(typeof props.description);
   return (
     <div className="flip-card card">
       <div className="flip-card-inner ">
@@ -10,10 +9,10 @@ export const CardAbMe = (props) => {
           style={{ padding: "1rem" }}
         >
           <img src={props.img} alt="about" />
-          <h2>{props.title}</h2>
+          <h2>{props.title} <i className="fa fa-arrow-circle-right" aria-hidden="true"></i> </h2>
         </div>
         <div className="flip-card-back shadow-card card-back">
-          <img src={props.icon} alt="icon" style={{height:'5rem'}}/>
+          <img src={props.icon} alt="icon" style={{ height: "5rem" }} />
           {props.description.split(".").map((i, index) => (
             <p key={index}>{i}.</p>
           ))}

@@ -1,0 +1,65 @@
+.gallery {
+  text-align: center;
+  @include background(white);
+  width: 90%;
+  height:100%;
+  padding: 2rem 1rem;
+  position: relative;
+  button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin:0.5rem;
+    @include background(transparent);
+    border:none;
+  }
+
+  .image-selected {
+    height: 10rem;
+    img {
+      height: 10rem;
+    }
+  }
+  .images-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    .image-gallery {
+      @include background($background-grey);
+      margin: 1rem;
+      img {
+        height: 2rem;
+      }
+    }
+  }
+  @include tablet() {
+    .image-selected {
+      height: 20rem;
+      img {
+        height: 20rem;
+      }
+    }
+    .images-list {
+      .image-gallery {
+        img {
+          height: 5rem;
+        }
+      }
+    }
+  }
+  @include desktop() {
+    .image-selected {
+      height: 30rem;
+      img {
+        height: 30rem;
+      }
+    }
+    .images-list {
+      .image-gallery {
+        img {
+          height: 5rem;
+        }
+      }
+    }
+  }
+}

@@ -1,6 +1,9 @@
 import React from "react";
 
 export const ProjectCard = (props) => {
+  const tags = [];
+  props.tags.forEach((tag, index) => tags.push(<div key={index} className="tag">{tag}</div>));
+  
   return (
     <div className="project">
       <div>
@@ -9,11 +12,9 @@ export const ProjectCard = (props) => {
       <div className="content">
         <h3>{props.title}</h3>
         <p>{props.description}</p>
-        <div className="tags">
-          <div className="tag">{props.tags}</div>
-          <div className="tag">{props.tags}</div>
-        </div>
-        <h4>Show More</h4>
+        <div className="tags">{tags}</div>
+        {/* <h2>{""}<i className="fab fa-github" aria-hidden="true"></i></h2> */}
+        {props.children}
       </div>
     </div>
   );

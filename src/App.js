@@ -5,10 +5,8 @@ import { Home } from "./components/Home";
 import { MyProjects } from "./components/MyProjects";
 import { NavBar } from "./components/NavBar";
 import { Skills } from "./components/Skills";
-import { useModal } from "./hooks/useModal";
 
 function App() {
-  
   return (
     <div>
       <NavBar />

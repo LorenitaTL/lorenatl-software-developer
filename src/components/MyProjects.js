@@ -61,6 +61,7 @@ export const MyProjects = () => {
           title={"Giphy App Search"}
           description={"Sitio web buscador de imágenes en formato GIF"}
           tags={["React"]}
+          front="https://github.com/LorenitaTL/giphy-search-app"
           children={
             <a
               href="https://lorenitatl.github.io/giphy-search-app/"
@@ -78,6 +79,8 @@ export const MyProjects = () => {
             "Sistema de Gestión de libros, el cual puede ser implementado en una biblioteca o una librería"
           }
           tags={["React", "Node", "MongoDB", "SASS"]}
+          front="https://github.com/LorenitaTL/crud-react-node-mongodb"
+          back="https://github.com/LorenitaTL/crud-mern-backend"
           children={
             <a
               href="https://crud-mern-backend.herokuapp.com/"
@@ -95,6 +98,8 @@ export const MyProjects = () => {
             "Mini sistema de control de inventario, el cual puede ser escalable para implementarse en cualquier tienda de autoservicio"
           }
           tags={["React", "PHP", "MySQL", "SASS"]}
+          front="https://github.com/LorenitaTL/crud-react-php-mysql"
+          back="https://github.com/LorenitaTL/backend-php"
           children={
             <a
               href="https://lorenitatl.000webhostapp.com/"
@@ -125,6 +130,7 @@ export const MyProjects = () => {
             "Diseño de aplicación móvil para servicio de restaurante"
           }
           tags={["Flutter"]}
+          front="https://github.com/LorenitaTL/Flutter-repo/tree/master/restaurant_bar_app"
           children={
             <div onClick={() => projectSelected("restaurant")}>
               <h4 onClick={toggle}>Ver galería</h4>

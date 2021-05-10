@@ -5,6 +5,7 @@ import { Modal } from "./Modal";
 import p1 from "../assets/projects_images/project_1.png";
 import p2 from "../assets/projects_images/project_2.png";
 import p3 from "../assets/projects_images/project_3.png";
+import p5 from "../assets/projects_images/project_5.png";
 import bbb2 from "../assets/bbb-images/bbb-2.png";
 import bbb3 from "../assets/bbb-images/bbb-3.png";
 import bbb4 from "../assets/bbb-images/bbb-4.png";
@@ -135,6 +136,60 @@ export const MyProjects = () => {
             <div onClick={() => projectSelected("restaurant")}>
               <h4 onClick={toggle}>Ver galería</h4>
             </div>
+          }
+        />
+        <ProjectCard
+          img={p5}
+          title={"Sliders"}
+          description={
+            "Ejemplos de sliders, los cuales pueden ser implementados en cualquier proyecto"
+          }
+          tags={["React","CSS"]}
+          front="https://github.com/LorenitaTL/sliders"
+          children={
+            <a
+              href="https://lorenitatl.github.io/sliders/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <h4> Live Web</h4>
+            </a>
+          }
+        />
+        <ProjectCard
+          img={p5}
+          title={"Clima"}
+          description={
+            "Ejemplos de sliders, los cuales pueden ser implementados en cualquier proyecto"
+          }
+          tags={["React","CSS"]}
+          front="https://github.com/LorenitaTL/sliders"
+          children={
+            <a
+              href="https://lorenitatl.github.io/sliders/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <h4> Live Web</h4>
+            </a>
+          }
+        />
+        <ProjectCard
+          img={p5}
+          title={"Recetas"}
+          description={
+            "Ejemplos de sliders, los cuales pueden ser implementados en cualquier proyecto"
+          }
+          tags={["React","CSS"]}
+          front="https://github.com/LorenitaTL/sliders"
+          children={
+            <a
+              href="https://lorenitatl.github.io/sliders/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <h4> Live Web</h4>
+            </a>
           }
         />
       </div>
